@@ -1,0 +1,8 @@
+main {
+    background-image: url(https://images.unsplash.com/photo-1679189789333-cf24f75b0de7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2428&q=80);
+}
+
+.center {
+    margin-left: 20%;
+    margin-right: 20%;
+}
